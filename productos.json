@@ -4,7 +4,7 @@
         "id": 1,
         "marca": "G&G",
         "precio": 320,
-        "imagen": "assets/img/g&g.jpg"
+        "imagen": "g&g.jpg"
 
     },
     {
@@ -12,7 +12,7 @@
         "id": 2,
         "marca": "ICS",
         "precio": 425,
-        "imagen": "assets/img/ICS.jpg"
+        "imagen": "ICS.jpg"
 
     },
     {
@@ -20,7 +20,7 @@
         "id": 3,
         "marca": "KWA",
         "precio": 260,
-        "imagen": "assets/img/kwa.jpg"
+        "imagen": "kwa.jpg"
 
     },
     {
@@ -28,7 +28,7 @@
         "id": 4,
         "marca": "E&L",
         "precio": 270,
-        "imagen": "assets/img/e&l.jpg"
+        "imagen": "e&l.jpg"
 
     },
     {
@@ -36,7 +36,7 @@
         "id": 5,
         "marca": "Krytac",
         "precio": 490,
-        "imagen": "assets/img/krytac.jpg"
+        "imagen": "krytac.jpg"
 
     },
     {
@@ -44,7 +44,7 @@
         "id": 6,
         "marca": "Ares",
         "precio": 280,
-        "imagen": "assets/img/ares.jpg"
+        "imagen": "ares.jpg"
     
     }
 ]
