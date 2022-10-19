@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: black
+}
+.navbar ul{
+    color: white;
+    display: flex;
+}
+.navbar a{
+    font-size: 25px;
+    text-decoration: none;
+    color: inherit;
+    margin: 20px;
+}
+.stockEstilos{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.card{
+    margin: 1rem auto;
+}
