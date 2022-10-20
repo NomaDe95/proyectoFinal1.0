@@ -79,7 +79,6 @@ function cargarProductosCarrito(array) {
         
         </div>
 `;
-    // document.getElementById(`botonEliminar${productoCarrito.id}`)
     console.log(document.getElementById(`botonEliminar${productoCarrito.id}`))
   });
 
