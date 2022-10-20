@@ -116,6 +116,7 @@ function totalCompra(array) {
 botonFinalizarCompra.addEventListener("click", () => {
   finalizarCompra();
 });
+
 function finalizarCompra() {
   //pregunta si esta seguro
   Swal.fire({
@@ -148,5 +149,5 @@ function finalizarCompra() {
     }
   });
 
-  //Limpiar el DOM, limpiar el modal con sus elementos
+
 }
