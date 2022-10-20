@@ -1,3 +1,4 @@
+//Indicar que se es mayor de edad
 let ingresoEdad = prompt("Ingrese su edad");
 
 if (ingresoEdad >= 18) {
